@@ -1,5 +1,5 @@
 title: JinHyeon Kim
-url: "https://kimjinhyeon0.github.io/"
+url: "https://kimjinhyeon0.github.io"
 baseurl: ""
 
 markdown: kramdown
@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/KimJinHyeon0"
+footer_url: "https://github.com/ankitsultana/researcher"
 footer_text: "Page design by Ankit Sultana"
 
 sass:
