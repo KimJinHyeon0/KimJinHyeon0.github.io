@@ -13,12 +13,12 @@ Senior year student of Electronic Engineering at Incheon National University, Re
 ## Research Interest
 
 * Machine Learning
-*
+* 666
 
 ## Publications
 
-1. 
-2. 
+1. AA
+2. BB
 
 ## Typography
 
