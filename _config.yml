@@ -1,6 +1,6 @@
 title: JinHyeon Kim
-url: "https://kimjinhyeon0.github.io"
-baseurl:
+url: "https://kimjinhyeon0.github.io/"
+baseurl: ''
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -16,7 +16,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
  - name: "Publications"
    link: "publications"
+ - name: "CV"
+   link: "cv"
