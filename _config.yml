@@ -1,6 +1,6 @@
 title: JinHyeon Kim
 url: "https://kimjinhyeon0.github.io"
-baseurl: ''
+baseurl:
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
